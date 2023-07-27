@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"brendon"
+	],
+	"copyright": "n/a",
+	"description": "A small daemon for optimizing power consumption on linux laptops.",
+	"license": "n/a",
+	"name": "laptoptd"
+}

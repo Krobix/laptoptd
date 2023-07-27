@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/laptoptd
+laptoptd.so
+laptoptd.dylib
+laptoptd.dll
+laptoptd.a
+laptoptd.lib
+laptoptd-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

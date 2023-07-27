@@ -1,0 +1,10 @@
+[Unit]
+Description=Laptop Optimization Daemon
+
+[Service]
+User=root
+WorkingDirectory=/run
+ExecStart=/bin/laptoptd
+
+[Install]
+WantedBy=multi-user.target
